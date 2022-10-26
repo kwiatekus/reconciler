@@ -69,7 +69,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/iancoleman/strcase v0.2.0
-	github.com/imdario/mergo v0.3.12
+	github.com/imdario/mergo v0.3.13
 	github.com/lib/pq v1.10.5
 	github.com/mattn/go-sqlite3 v1.14.12
 	github.com/mholt/archiver/v3 v3.5.1
@@ -90,7 +90,7 @@ require (
 	golang.org/x/text v0.3.7
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	helm.sh/helm/v3 v3.7.2
 	sigs.k8s.io/kustomize/kyaml v0.13.0
 )
