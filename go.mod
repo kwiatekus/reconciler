@@ -25,7 +25,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/iancoleman/strcase v0.2.0
-	github.com/imdario/mergo v0.3.13
+	github.com/imdario/mergo v0.3.14
 	github.com/kyma-project/istio/operator v0.0.0-20221129102055-d37c5c8e6add
 	github.com/lib/pq v1.10.7
 	github.com/mattn/go-sqlite3 v1.14.16
